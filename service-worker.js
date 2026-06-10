@@ -1,4 +1,4 @@
-var cacheName = '3';
+var cacheName = '우리-사이의-알맞은-거리';
 
 /* Start the service worker and cache all of the app's content or use the existing one */
 self.addEventListener('install', function (e) {
